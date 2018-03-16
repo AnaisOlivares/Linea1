@@ -71,3 +71,6 @@ Sobre Línea 1:
 
 * #### Affinity map:
 >![adri](assets/images/affinity.jpg)
+
+* #### Benchmark:
+>![adri](assets/images/benchmarkkk.jpg)
