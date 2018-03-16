@@ -59,10 +59,7 @@ Sobre Línea 1:
 
         Necesita: Recargar tarjeta a modo BCP, ver saldos, recargar, ver fecha de vencimiento, a través de la app.
 
-        >>![adri](assets/images/mely.png)
-        >>![adri](assets/images/mely2.png)
-
-
+        >>![adri](assets/images/entrevistasonline.jpg)
 
 * #### Comentarios de usuarios de app:
 >![adri](assets/images/comentarios.png)
