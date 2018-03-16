@@ -27,7 +27,7 @@ Sobre Línea 1:
 
     En el caso de María tamiénse realizó una entrevista en base a una competencia secundaria "El metropolitano".
 
-      No le gustó: Desorden, no hay horarios, no hay un mapa que le indique que estación tomar. No tiene ninguna app de estos servicios en su smartphone.
+    No le gustó: Desorden, no hay horarios, no hay un mapa que le indique que estación tomar. No tiene ninguna app de estos servicios en su smartphone.
 
     * Yenny: Usa diariamente la Línea 1.
 
@@ -51,6 +51,21 @@ Sobre Línea 1:
 
         Necesita: Recargar tarjeta a modo BCP, ver saldos, recargar, ver fecha de vencimiento, a través de la app.
 
+    * Melyna: Usa diariamente la Línea 1.
+
+        Le gusta: la rapidéz, que tenga aire acondicionado.
+
+        No le gusta: Odia las colas
+
+        Necesita: Recargar tarjeta a modo BCP, ver saldos, recargar, ver fecha de vencimiento, a través de la app.
+
+        >>![adri](assets/images/mely.png)
+        >>![adri](assets/images/mely2.png)
+
+
+
+* #### Comentarios de usuarios de app:
+>![adri](assets/images/comentarios.png)
 
 * #### User persona:
 >![adri](assets/images/Untitled.jpg)
