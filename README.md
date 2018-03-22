@@ -1,3 +1,11 @@
+# Rediseño de la App Línea 1
+Rediseño de la app mobile del metro de Lima que busca generar una mejor experiencia al usar el servicio.
+
+![tren](https://user-images.githubusercontent.com/32288883/37802166-4bbc3e1e-2df7-11e8-9ac0-f85f88eb1f73.jpeg)
+
+## Desarrollado para
+[Laboratoria](http://laboratoria.la)
+
 ## LÍNEA 1 "El metro de Lima" App
 La línea 1 es el primer medio de transporte público que presta servicio de sur a noreste conectando a 11 distritos. Tiene una extensión de 34 km y cuenta con 26 estaciones de las cuales 6 estaciones están a nivel de suelo y 20 en viaducto elevado.
 
