@@ -91,12 +91,12 @@ Sobre Línea 1:
 
   Como puntos principales se mejoraron:
 
-      * Tamaño de fuente
-      * Alineación
-      * Falla ortográfica
+    * Tamaño de fuente
+    * Alineación
+    * Falla ortográfica
 
 
-  ![adri](assets/images/test.jpg)
+  ![test](assets/images/test.jpg)
 
 * #### 2° Prototipado de alta fidelidad:
   * [Figma](https://www.figma.com/file/Es1ceGtwZzI1yWbegtLqVD/LINE-1-Copy)
