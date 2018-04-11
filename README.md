@@ -1,4 +1,4 @@
-# Rediseño de la App Línea 1
+# App Metro de Lima - Linea 1: ReDesign
 Rediseño de la app mobile del metro de Lima que busca generar una mejor experiencia al usar el servicio.
 
 ![tren](https://user-images.githubusercontent.com/32288883/37802166-4bbc3e1e-2df7-11e8-9ac0-f85f88eb1f73.jpeg)
